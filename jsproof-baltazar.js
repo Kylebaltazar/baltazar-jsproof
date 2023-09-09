@@ -1,4 +1,5 @@
 /*
+BALTAZAR,KYLE - 202011503 SEPTEMBER 10, 2023
 Assessment Requirements
 1.  Create a variable that can hold a number of NFT's. What type of variable might this be?
 2.  Create an object inside your mintNFT function that will hold the metadata for your NFTs. 
